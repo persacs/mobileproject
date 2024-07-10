@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99810134559",
+    "project_id": "koprasina-74724",
+    "storage_bucket": "koprasina-74724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99810134559:android:b18bedd201c53aa19de32a",
+        "android_client_info": {
+          "package_name": "com.koprasina.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqU1OJz7qAAH9QTi7ip5tfihGAl2z_n1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
